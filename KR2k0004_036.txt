@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 太平寰宇記
-#+DATE: 2019-03-29 20:51:36.172819
+#+DATE: 2019-03-29 20:51:37.689346
 #+PROPERTY: ID KR2k0004
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 36
 <pb:KR2k0004_WYG_036-1a>¶
 　　欽定四庫全書¶
@@ -27,7 +27,7 @@
 徳元年改為延州總管府領膚施豐林延州三縣管南¶
 平北武東夏三州四年又管丹廣達三州貞觀元年罷¶
 都督府開元二年復置都督府領綏丹渾等州天寶元¶
-年改為延安𨛦乾元元年復為延州皇朝為彰武軍節¶
+年改為延安郡乾元元年復為延州皇朝為彰武軍節¶
 <pb:KR2k0004_WYG_036-2a>¶
 度¶
 ¶

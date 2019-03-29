@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 太平寰宇記
-#+DATE: 2019-03-29 20:51:36.489699
+#+DATE: 2019-03-29 20:51:38.151477
 #+PROPERTY: ID KR2k0004
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 91
 <pb:KR2k0004_WYG_091-1a>¶
 　　欽定四庫全書¶
@@ -132,7 +132,7 @@
 ¶
 　　土産¶
 ¶
-　　絲葛　白石脂　藕　綾　蓆　草履　&KR0620;床子¶
+　　絲葛　白石脂　藕　綾　蓆　草履　蛇床子¶
 ¶
 　　吳縣三十鄉本秦舊縣也吳王闔閭所都漢書地理志¶
 吳之故國周太伯之邑也今按闔閭城周迴三十里水¶

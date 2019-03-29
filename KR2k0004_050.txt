@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 太平寰宇記
-#+DATE: 2019-03-29 20:51:36.249136
+#+DATE: 2019-03-29 20:51:37.809984
 #+PROPERTY: ID KR2k0004
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 50
 <pb:KR2k0004_WYG_050-1a>¶
 　　欽定四庫全書¶
@@ -271,7 +271,7 @@
 界　縣城即漢沾縣城也隋文帝更加修築昔陽故城¶
 一名夕陽城在縣東五十里左傳曰晉荀吳假道於鮮¶
 虞遂入晉陽㓕肥以肥子歸七國時趙戍于此　樂平¶
-山在縣東七十六里即古東山皋落氏之地漢縣因山¶
+山在縣東七十六里即古東山皐落氏之地漢縣因山¶
 <pb:KR2k0004_WYG_050-13a>¶
 以名¶
 ¶

@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 太平寰宇記
-#+DATE: 2019-03-29 20:51:35.995154
+#+DATE: 2019-03-29 20:51:37.336423
 #+PROPERTY: ID KR2k0004
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 2
 <pb:KR2k0004_WYG_002-1a>¶
 　　欽定四庫全書¶
@@ -61,7 +61,7 @@
 湯居亳今濟陰東南亳城是也十三州志梁國有二亳¶
 南亳在谷北亳在䝉湯㑹諸侯于景亳即䝉之北亳也¶
 ¶
-　　&KR0619;箕城在縣北四十六里按城冢記禹治水時所築¶
+　　簸箕城在縣北四十六里按城冢記禹治水時所築¶
 龍門臺在縣西南一十五里按戴延之西征記云龍¶
 ¶
 　　門水名也臺南渠岸有門與臺下水相連高齊時于此¶

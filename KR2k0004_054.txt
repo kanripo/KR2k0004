@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 太平寰宇記
-#+DATE: 2019-03-29 20:51:36.269567
+#+DATE: 2019-03-29 20:51:37.840276
 #+PROPERTY: ID KR2k0004
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 54
 <pb:KR2k0004_WYG_054-1a>¶
 　　欽定四庫全書¶
@@ -17,7 +17,7 @@
 　　魏州¶
 ¶
 　　魏州魏郡今理大名元城二城禹貢兖冀二州之域在¶
-夏時即為觀扈之國星分畢&KR0295;春秋為晉地戰國魏衛¶
+夏時即為觀扈之國星分畢昴春秋為晉地戰國魏衛¶
 二國之境秦滅置東郡城趙置邯鄲郡漢髙祖使韓信¶
 <pb:KR2k0004_WYG_054-1b>¶
 定河北以秦邯鄲郡之南部并東郡之邊縣置魏郡即¶

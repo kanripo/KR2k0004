@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 太平寰宇記
-#+DATE: 2019-03-29 20:51:36.648625
+#+DATE: 2019-03-29 20:51:38.366130
 #+PROPERTY: ID KR2k0004
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 120
 <pb:KR2k0004_WYG_120-1a>¶
 　　欽定四庫全書¶
@@ -320,7 +320,7 @@
 　　南寧州本清溪鎮唐末置在黔州西南二十九日行¶
 従南寧州至羅殿王部落八日行與雲南接界¶
 <pb:KR2k0004_WYG_120-15b>¶
-𠑽州　淡州　犍州　莊州　明州　牂州　矩州¶
+充州　淡州　犍州　莊州　明州　牂州　矩州¶
 清州¶
 ¶
 　　四十四州洞内覊縻¶

@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 太平寰宇記
-#+DATE: 2019-03-29 20:51:37.035626
+#+DATE: 2019-03-29 20:51:38.799978
 #+PROPERTY: ID KR2k0004
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 173
 <pb:KR2k0004_WYG_173-1a>¶
 　　欽定四庫全書¶
@@ -257,7 +257,7 @@
 <pb:KR2k0004_WYG_173-14b>¶
 無益恐非通典且得其地不足以耕織得其人不足以¶
 賦税臣請罷薛訥廢安東鎮三韓君長髙氏為其主誠¶
-願陛下存亡&KR0071;絶之義復其故地此之美名髙於堯舜¶
+願陛下存亡繼絶之義復其故地此之美名髙於堯舜¶
 逺矣¶
 ¶
 　　四至¶

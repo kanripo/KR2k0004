@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 太平寰宇記
-#+DATE: 2019-03-29 20:51:36.449068
+#+DATE: 2019-03-29 20:51:38.104575
 #+PROPERTY: ID KR2k0004
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 85
 <pb:KR2k0004_WYG_085-1a>¶
 　　欽定四庫全書¶
@@ -126,7 +126,7 @@
 北一百二十五里蜀先主於此置籍田牧馬于此江中¶
 俗因名沐馬川今割屬廣都縣　道江水從縣北三十¶
 <pb:KR2k0004_WYG_085-6b>¶
-五里過　魚&KR0620;水在縣南三十五里從縣界夷歌鄉來¶
+五里過　魚蛇水在縣南三十五里從縣界夷歌鄉來¶
 入睂州青神縣界¶
 ¶
 　　陵井監¶

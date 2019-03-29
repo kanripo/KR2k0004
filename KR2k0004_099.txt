@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 太平寰宇記
-#+DATE: 2019-03-29 20:51:36.537046
+#+DATE: 2019-03-29 20:51:38.214372
 #+PROPERTY: ID KR2k0004
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 99
 <pb:KR2k0004_WYG_099-1a>¶
 　　欽定四庫全書¶
@@ -138,7 +138,7 @@
 太守顔延年在郡於山創亭　瑞安江東連大海西上¶
 西溪以山港為湖湖際有瑞安山又有安固山　王表¶
 祠郡國志云羅陽有神曰王表民間有婢名紡績即孫¶
-&KR0096;之所迎者¶
+權之所迎者¶
 ¶
 　　樂清縣東北一百二十四里今六鄉晉元康三年分永¶
 寧縣置樂城縣陳代廢入永嘉縣載初元年又置之今¶

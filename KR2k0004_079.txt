@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 太平寰宇記
-#+DATE: 2019-03-29 20:51:36.413376
+#+DATE: 2019-03-29 20:51:38.050524
 #+PROPERTY: ID KR2k0004
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 79
 <pb:KR2k0004_WYG_079-1a>¶
 　　欽定四庫全書¶
@@ -340,7 +340,7 @@
 　　土産¶
 ¶
 　　有種木皮以為布　龍布似荔枝　越氊　蜀記云¶
-雲南越□毭𦋺也¶
+雲南越□毭罽也¶
 ¶
 　　姚城縣二鄉本漢弄棟縣地因川為名唐因立州改為¶
 姚城縣置在姚府舊城百餘步　雲南山山有祠處石¶

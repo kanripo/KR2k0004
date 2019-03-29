@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 太平寰宇記
-#+DATE: 2019-03-29 20:51:36.035116
+#+DATE: 2019-03-29 20:51:37.431817
 #+PROPERTY: ID KR2k0004
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 10
 <pb:KR2k0004_WYG_010-1a>¶
 　　欽定四庫全書¶
@@ -139,7 +139,7 @@
 在縣西南十三里古老傳云陳侯之女厲媯之陵也春¶
 <pb:KR2k0004_WYG_010-7a>¶
 秋傳隠公三年衛莊公娶於陳曰厲媯生孝伯早死其¶
-娣戴媯生桓公又按詩𨚍風燕燕莊姜送歸妾也注云¶
+娣戴媯生桓公又按詩弼風燕燕莊姜送歸妾也注云¶
 莊姜無子戴媯生桓而州吁弑之二媯同死因塟於陳¶
 ¶
 　　八卦壇在縣北一里即伏羲于蔡水得龜因畫八卦¶

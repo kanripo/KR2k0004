@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 太平寰宇記
-#+DATE: 2019-03-29 20:51:36.578037
+#+DATE: 2019-03-29 20:51:38.267776
 #+PROPERTY: ID KR2k0004
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 106
 <pb:KR2k0004_WYG_106-1a>¶
 　　欽定四庫全書¶
@@ -188,7 +188,7 @@
 ¶
 　　新建縣西二里十二鄉南昌縣地皇朝太平興國六¶
 年割南昌水西十四鄉置新建縣仍於州城升平里故¶
-為將林仁肇私第充縣𪠘署¶
+為將林仁肇私第充縣廨署¶
 ¶
 　　豐城縣南一百三十里元十六鄉今十八鄉漢南昌縣¶
 豫章按顧野王輿地志云後漢建安中初立富城縣於¶
