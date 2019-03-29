@@ -1,0 +1,29 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 太平寰宇記
+#+DATE: 2019-03-29 20:51:36.635906
+#+PROPERTY: ID KR2k0004
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: WITNESS WYG    
+#+PROPERTY: JUAN 116
+<pb:KR2k0004_WYG_116-1a>¶
+　　欽定四庫全書¶
+¶
+　　太平寰宇記卷一百十六¶
+¶
+　　宋　樂史　撰¶
+¶
+　　(原闕)¶
+¶
+¶
+¶
+¶
+<pb:KR2k0004_WYG_116-1b>¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
